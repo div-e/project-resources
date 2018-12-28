@@ -55,6 +55,14 @@ Discuss with board. When are you free? When2meet
 fill in with budget reqs, timeline, etc.
 Meet with 
 
+## Build
+
+### Code Review
+Request a code review from one of our experienced mentors. 
+
+### Questions
+Submit a question in // TODO build place to submit questions 
+
 # UC San Diego Principles of Community
 [Principles of Community](https://ucsd.edu/about/principles.html)
 
